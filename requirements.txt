@@ -8,5 +8,5 @@ ipykernel
 matplotlib
 numpy
 requests
-stopwords-iso
+stopwordsiso
 #for A2 and A4
