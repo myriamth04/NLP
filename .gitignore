@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+cc.hi.300.bin
+cc.hi.300.bin.gz
